@@ -1,0 +1,9 @@
+[submodule "UTF"]
+	path = UTF
+	url = git@github.com:Unity-Technologies/UTF_Tests_HDRP.git
+[submodule "UTF_Tests_HDRP"]
+	path = UTF_Tests_HDRP
+	url = git@github.com:Unity-Technologies/UTF_Tests_HDRP.git
+[submodule "UTF_Core"]
+	path = UTF_Core
+	url = https://github.com/Unity-Technologies/UTF_Core.git
